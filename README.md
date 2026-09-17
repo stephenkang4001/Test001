@@ -2,7 +2,7 @@
 
 
 
-#CapsLock2IME.reg
+# CapsLock2IME.reg
 
  Windows Registry Editor Version 5.00
 
